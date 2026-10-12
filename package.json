@@ -1,0 +1,7 @@
+{
+  "name": "Lost-Found",
+  "version": "1.0.0",
+  "description": "Campus Lost & Found with smart matching - AAFT Noida Sector 16",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" }
+}
